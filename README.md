@@ -1,6 +1,6 @@
 
 ![Nitin Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazysegtree)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazysegtree&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook" alt="lazysegtree" /></p>
 
 <!--
 **lazysegtree/lazysegtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
