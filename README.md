@@ -13,14 +13,11 @@ Currenly working on superfile - A modern terminal file manager.
 
 ### My open source contributions
 
-<img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/square/face.svg" width="50" alt="Gopher">
-
-
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/yorukot/superfile?style=plastic&logo=files&label=superfile)](https://github.com/yorukot/superfile) : A modern and fancy terminal file manager. Feature loaded. Focussed on UI and usability. [My PRs](https://github.com/yorukot/superfile/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree+base%3Amain)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- [![GitHub Repo stars](https://img.shields.io/github/stars/tmux-python/libtmux?style=plastic&logo=gnometerminal&label=libtmux)](https://github.com/yorukot/superfile) : Tmux wrapper library in pythong. [My PRs](https://github.com/tmux-python/libtmux/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
+- [![GitHub Repo stars](https://img.shields.io/github/stars/tmux-python/libtmux?style=plastic&logo=gnometerminal&label=libtmux)](https://github.com/tmux-python/libtmux) : Tmux wrapper library in pythong. [My PRs](https://github.com/tmux-python/libtmux/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 
 
 <h3 align="left">Other profiles</h3>
