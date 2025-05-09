@@ -1,6 +1,8 @@
 <!--
+
 ![Nitin Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazysegtree)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazysegtree&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook" alt="lazysegtree" /></p>
+
 --->
 
 <img width="795" alt="image" src="https://github.com/user-attachments/assets/afe9b961-1971-48db-875a-baf0e16ee459" />
@@ -8,6 +10,12 @@
 
 I love Competitive programming, Algorithms and Maths.
 Currenly working on superfile - A modern terminal file manager.
+
+### My open source contributions
+
+Golang
+
+- [![GitHub Repo stars](https://img.shields.io/github/stars/yorukot/superfile?style=plastic&logo=files&label=superfile)](https://github.com/yorukot/superfile) : A modern and fancy terminal file manager. Feature loaded. Focussed on UI and usability. [My PRs](https://github.com/yorukot/superfile/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree+base%3Amain)
 
 <h3 align="left">Other profiles</h3>
 <p align="left">
