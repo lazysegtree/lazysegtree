@@ -28,7 +28,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-- [![GitHub Repo stars](https://img.shields.io/github/stars/charmbracelet/x?style=plastic&label=charmbracelet/x)](https://github.com/charmbracelet/x) : Charmbracelet experimental package. [My PRs](https://github.com/charmbracelet/x/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
+- [![GitHub Repo stars](https://img.shields.io/github/stars/charmbracelet/x?style=plastic&label=charmbracelet/x)](https://github.com/charmbracelet/x) : Experimental package for charmbracelet, a TUI framework [My PRs](https://github.com/charmbracelet/x/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/firefart/nonamedreturns?style=plastic&label=nonamedreturns)](https://github.com/firefart/nonamedreturns) : Go linter for flagging named returns. [My PRs](https://github.com/firefart/nonamedreturns/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/reinhrst/fzf-lib?style=plastic&label=fzf-lib)](https://github.com/reinhrst/fzf-lib) : Fuzzy finder library in go. [My PRs](https://github.com/reinhrst/fzf-lib/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/nikoksr/assert-go?style=plastic&label=assert-go)](https://github.com/nikoksr/assert-go) : Simplistic compile time assertion library in go. [My PRs](https://github.com/nikoksr/assert-go/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
