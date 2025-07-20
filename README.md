@@ -28,6 +28,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/vishvananda/netlink?style=plastic&label=netlink)](https://github.com/vishvananda/netlink) : Netlink library for go [My PRs](https://github.com/vishvananda/netlink/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/mistakenelf/fm?style=plastic&label=fm)](https://github.com/mistakenelf/fm) : A Terminal File Manager [My PRs](https://github.com/mistakenelf/fm/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/charmbracelet/x?style=plastic&label=charmbracelet/x)](https://github.com/charmbracelet/x) : Experimental package for charmbracelet, a TUI framework [My PRs](https://github.com/charmbracelet/x/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/firefart/nonamedreturns?style=plastic&label=nonamedreturns)](https://github.com/firefart/nonamedreturns) : Go linter for flagging named returns. [My PRs](https://github.com/firefart/nonamedreturns/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
