@@ -25,6 +25,8 @@ https://github.com/Ileriayo/markdown-badges
 
 - [![GitHub Repo stars](https://img.shields.io/github/stars/tmux-python/libtmux?style=plastic&label=libtmux)](https://github.com/tmux-python/libtmux) : Tmux wrapper library in python. [My PRs](https://github.com/tmux-python/libtmux/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 
+- [![GitHub Repo stars](https://img.shields.io/github/stars/NSPC911/rovr?style=plastic&label=rovr)](https://github.com/NSPC911/rovr) : A post-modern TUI File Manager in python. [My PRs](https://github.com/NSPC911/rovr/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
+
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
