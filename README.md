@@ -9,7 +9,7 @@
 
 
 I love Competitive programming, Algorithms and Maths.
-Currenly working on superfile - A modern terminal file manager.
+Currenly working as maintainer of superfile - A modern terminal file manager.
 
 ### Major open source contributions
 
