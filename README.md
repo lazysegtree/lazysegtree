@@ -32,7 +32,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- [![GitHub Repo stars](https://img.shields.io/github/stars/jarro2783/cxxopts?style=plastic&label=assert-go)](https://github.com/jarro2783/cxxopts) : Lightweight C++ command line option parser [My PRs](https://github.com/jarro2783/cxxopts/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
+- [![GitHub Repo stars](https://img.shields.io/github/stars/jarro2783/cxxopts?style=plastic&label=cxxopts)](https://github.com/jarro2783/cxxopts) : Lightweight C++ command line option parser [My PRs](https://github.com/jarro2783/cxxopts/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
