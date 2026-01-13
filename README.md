@@ -21,13 +21,6 @@ https://github.com/Ileriayo/markdown-badges
 
 #### Other contributions
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-- [![GitHub Repo stars](https://img.shields.io/github/stars/tmux-python/libtmux?style=plastic&label=libtmux)](https://github.com/tmux-python/libtmux) : Tmux wrapper library in python. [My PRs](https://github.com/tmux-python/libtmux/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
-
-- [![GitHub Repo stars](https://img.shields.io/github/stars/NSPC911/rovr?style=plastic&label=rovr)](https://github.com/NSPC911/rovr) : A post-modern TUI File Manager in python. [My PRs](https://github.com/NSPC911/rovr/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
-
-
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 - [![GitHub Repo stars](https://img.shields.io/github/stars/vishvananda/netlink?style=plastic&label=netlink)](https://github.com/vishvananda/netlink) : Netlink library for go [My PRs](https://github.com/vishvananda/netlink/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
@@ -36,7 +29,17 @@ https://github.com/Ileriayo/markdown-badges
 - [![GitHub Repo stars](https://img.shields.io/github/stars/firefart/nonamedreturns?style=plastic&label=nonamedreturns)](https://github.com/firefart/nonamedreturns) : Go linter for flagging named returns. [My PRs](https://github.com/firefart/nonamedreturns/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/reinhrst/fzf-lib?style=plastic&label=fzf-lib)](https://github.com/reinhrst/fzf-lib) : Fuzzy finder library in go. [My PRs](https://github.com/reinhrst/fzf-lib/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
 - [![GitHub Repo stars](https://img.shields.io/github/stars/nikoksr/assert-go?style=plastic&label=assert-go)](https://github.com/nikoksr/assert-go) : Simplistic compile time assertion library in go. [My PRs](https://github.com/nikoksr/assert-go/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
- 
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+- [![GitHub Repo stars](https://img.shields.io/github/stars/jarro2783/cxxopts?style=plastic&label=assert-go)](https://github.com/jarro2783/cxxopts) : Lightweight C++ command line option parser [My PRs](https://github.com/jarro2783/cxxopts/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+- [![GitHub Repo stars](https://img.shields.io/github/stars/tmux-python/libtmux?style=plastic&label=libtmux)](https://github.com/tmux-python/libtmux) : Tmux wrapper library in python. [My PRs](https://github.com/tmux-python/libtmux/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
+
+- [![GitHub Repo stars](https://img.shields.io/github/stars/NSPC911/rovr?style=plastic&label=rovr)](https://github.com/NSPC911/rovr) : A post-modern TUI File Manager in python. [My PRs](https://github.com/NSPC911/rovr/pulls?q=is%3Apr+is%3Amerged+author%3Alazysegtree)
+
 
 
 <h3 align="left">Other profiles</h3>
